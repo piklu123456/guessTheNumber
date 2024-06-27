@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+
+body h1 {
+    color: red;
+    text-align: center;
+}
+
+body p {
+    text-align: center;
+    color: blue;
+    padding: 30px;
+    font-size: 21px;
+}
+
+body form {
+    text-align: center;
+}
+
+input {
+    padding: 15px;
+    border-radius: 21px;
+}
+
+#submitguess {
+    background-color: green;
+}
